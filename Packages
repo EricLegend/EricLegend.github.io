@@ -5,7 +5,7 @@ Maintainer: kTweaks
 Installed-Size: 576
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.niro.Kik8
-Filename: debs/com.kTweaks.Kik8_4.2-106_iphoneos-arm.deb
+Filename: ./debs/com.kTweaks.Kik8_4.2-106_iphoneos-arm.deb
 Size: 137134
 MD5sum: b31d0f3f7b1be5294b98e9962c781a97
 SHA1: 4e43d0e50f0c0d314c4f3a63cbe88965c74864a2
