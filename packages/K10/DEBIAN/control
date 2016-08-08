@@ -1,0 +1,11 @@
+Package: com.kTweaks.Kik8
+Name: K10
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.niro.Kik8
+Version: 4.2
+Architecture: iphoneos-arm
+Description: kik8 brings the user the very best experience from fake camera to being 'hidden' v1.2 will have custom text color, and much more ;)
+Homepage: http://thebigboss.org/
+Maintainer: kTweaks
+Author: kTweaks
+Section: Tweaks

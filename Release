@@ -1,0 +1,8 @@
+Origin: kTweaks Public Repo
+Label: kTweaks Public Repo
+Suite: Stable
+Version 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kTweaks Public Repo
